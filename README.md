@@ -1,0 +1,3 @@
+- This repository contains code for assignments of Astrometry and Its Applications
+- Author: Zixiao Guo
+- Email: zixiaoguoy@gmail.com
